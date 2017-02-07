@@ -24,4 +24,5 @@ img {
     width: 350px;
     border: 0;
     margin: auto;
+    position: relative;
 }
