@@ -18,3 +18,8 @@ h2 {
     padding: 15px;
     text-align: center;
 }
+
+img {
+    border: 0;
+    margin: auto;
+}
