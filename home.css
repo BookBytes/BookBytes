@@ -20,6 +20,8 @@ h2 {
 }
 
 img {
+    height: 400px;
+    width: 400px;
     border: 0;
     margin: auto;
 }
