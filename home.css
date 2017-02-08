@@ -31,11 +31,12 @@ blockquote {
 }
 
 img {
-    height: 350px;
-    width: 350px;
+    height: 325px;
+    width: 325px;
     border: 0;
     margin: auto;
     position: relative;
-    margin-right:auto;
-    margin-right:auto;
+    display: block;
+    margin-right: auto;
+    margin-right: auto;
 }
