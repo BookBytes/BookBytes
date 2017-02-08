@@ -36,4 +36,5 @@ img {
     border: 0;
     margin: auto;
     position: relative;
+    left: calc(50%);
 }
