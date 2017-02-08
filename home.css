@@ -26,6 +26,13 @@ h3 {
     text-align: center;
 }
 
+h4 {
+    margin: auto;
+    width: 40%;
+    padding: 12px;
+    text-align: center;
+}
+
 blockquote {
     text-align: center;
 }
