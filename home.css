@@ -36,6 +36,8 @@ img {
     border: 0;
     margin: auto;
     position: relative;
+    /* Credit to Kenny Ling for the following idea to center image 
+       after many, many bad attempts on my part*/
     display: block;
     margin: auto;
 }
