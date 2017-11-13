@@ -23,9 +23,19 @@
 }
 
 .headimage {
+    /* ref: https://stackoverflow.com/questions/1150163/stretch-and-scale-a-css-image-in-the-background-with-css-only */
     background-image: url("/img/skyline.jpg");
+    background-size: cover;
+    background-position-y: center;
 }
 
 .sideimage {
     margin-left: 75%;
+}
+
+.blog {
+    width: 60%;
+    margin: auto;
+    display: block;
+    position: relative;
 }
