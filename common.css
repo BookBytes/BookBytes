@@ -23,7 +23,7 @@
 }
 
 .headimage {
-    background-image: '/img/skyline.jpg';
+    background-image: url("/img/skyline.jpg");
 }
 
 .sideimage {
