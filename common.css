@@ -1,0 +1,19 @@
+/* common.css */
+
+.navbar {
+    width: 100%;
+    height: 50px;
+    background-color: #CC88BB;
+}
+
+.buffer-sm {
+    height: 50px;
+}
+
+.buffer-md {
+    height: 100px;
+}
+
+.buffer-lg {
+    height: 200px;
+}
