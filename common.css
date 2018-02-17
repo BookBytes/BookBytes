@@ -41,3 +41,8 @@
     position: relative;
     text-align: center;
 }
+
+.bio-box {
+    padding: 10px;
+    margin: 10px;
+}
