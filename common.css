@@ -50,4 +50,5 @@
 .entry{
     margin: 10px;   
     width: 40%;
+    display: block;
 }
