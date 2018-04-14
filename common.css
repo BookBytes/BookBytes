@@ -48,7 +48,8 @@
 }
 
 .entry{
-    margin: 10px;   
+    margin: auto;   
     width: 40%;
     display: block;
+    position: relative;
 }
