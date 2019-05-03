@@ -1,0 +1,20 @@
+/* china.css */
+
+.box {
+    margin-left: 10%;
+    margin-right: 10%;
+    margin-top: 30px;
+    margin-bottom: 30px;
+}
+
+p {
+	text-indent: 3em;
+}
+
+.center {
+	text-align: center;
+}
+
+body {
+	background-color: #EED;
+}
