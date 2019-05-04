@@ -1,5 +1,12 @@
 /* china.css */
 
+/* reference https://stackoverflow.com/questions/17158253/
+   indent-starting-from-the-second-line-of-a-paragraph-with-css */
+.citation {
+	padding-left: 2em;
+	text-indent: -2em;
+}
+
 .box {
     margin-left: 10%;
     margin-right: 10%;
@@ -8,7 +15,7 @@
 }
 
 p {
-	text-indent: 3em;
+	text-indent: 2em;
 }
 
 .center {
