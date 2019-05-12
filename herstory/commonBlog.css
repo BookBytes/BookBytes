@@ -7,6 +7,10 @@
 	text-indent: -2em;
 }
 
+.titleRef {
+	font:italic;
+}
+
 .box {
     margin-left: 10%;
     margin-right: 10%;
