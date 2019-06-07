@@ -42,9 +42,13 @@
     text-align: center;
 }
 
-.bio-box {
-    padding: 10px;
-    margin: 10px;
+.text-box {
+    padding: 20px;
+    margin: 20px;
+}
+
+.ital-text {
+    font-style: italic;
 }
 
 .entry{
