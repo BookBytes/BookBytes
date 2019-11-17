@@ -5,12 +5,16 @@ body
 }
 
 .footer {
-    margin-bottom: 0%;
     background-color: #000;
     color: #fff;
     width: 100%;
     padding: 10px;
     text-align: center;
+    position: absolute;
+    /* Ref https://www.freecodecamp.org/news/
+       how-to-keep-your-footer-where-it-belongs-59c6aa05c59c/ */
+    bottom: 0;
+    margin-bottom: 0;
 }
 
 h2 {
